@@ -1,0 +1,2 @@
+# Mindmaps
+Collection of Mindmaps
